@@ -1,0 +1,25 @@
+boby{
+ background-color: darkmagenta;
+
+}
+
+.cabeçalho {
+  margin-bottom: opx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid darkmagenta;
+  background-image: url(wp9212011.jpg);
+  background-size: cover;
+  background-position: 50% 75%;
+
+
+}
+
+
+
+
+
+
+
+    
